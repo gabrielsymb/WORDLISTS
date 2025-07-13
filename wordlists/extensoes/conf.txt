@@ -1,0 +1,5 @@
+
+db_host = localhost
+db_user = meu_usuario
+db_password = minha_senha
+db_name = meu_banco

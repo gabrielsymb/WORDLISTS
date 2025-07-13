@@ -1,0 +1,6 @@
+<database>
+  <host>localhost</host>
+  <user>meu_usuario</user>
+  <password>minha_senha</password>
+  <name>meu_banco</name>
+</database>

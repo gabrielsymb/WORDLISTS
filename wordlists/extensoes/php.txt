@@ -1,0 +1,8 @@
+$host = "localhost";
+$user = "meu_usuario";
+$password = "minha_senha";
+$db = "meu_banco";
+
+// Ou em funções:
+mysqli_connect("localhost", "meu_usuario", 
+"minha_senha", "meu_banco");
